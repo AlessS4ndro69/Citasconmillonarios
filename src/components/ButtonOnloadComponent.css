@@ -1,0 +1,17 @@
+/* RedButton.css */
+.red-button {
+    background-color: #007bff; /* Color de fondo rojo */
+    color: white; /* Color del texto blanco */
+    padding: 10px 20px; /* Relleno del botón */
+    border: none; /* Sin borde */
+    border-radius: 4px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+    font-size: 16px; /* Tamaño de fuente */
+    font-weight: bold; /* Texto en negrita */
+    margin: 10px;
+  }
+  
+  .red-button:hover {
+    background-color: #1800f0; /* Cambia el color de fondo al pasar el mouse */
+  }
+  

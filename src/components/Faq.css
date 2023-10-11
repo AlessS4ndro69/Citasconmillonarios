@@ -1,0 +1,32 @@
+/* Faq.css */
+
+.faq-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .faq-item {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #ff3366;
+  }
+  
+  h3 {
+    color: #333;
+  }
+  
+  p {
+    color: #555;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  /* Estilos adicionales según tu diseño juvenil */
+  
